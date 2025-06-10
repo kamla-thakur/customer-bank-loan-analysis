@@ -2,7 +2,7 @@
 
 ### 📊 Power BI Dashboard Preview
 
-![Bank Loan Dashboard](visuals/bank_loan_dashboard.png)   
+![Bank Loan Dashboard](screeshot/customer_bank_loan_analysis.png)   
 Key Insights from Bank Loan Analysis
 Loan Applications Volume
 
@@ -54,4 +54,4 @@ Copy
 Edit
 ### 📊 Power BI Dashboard Preview
 
-![Bank Loan Dashboard](visuals/bank_loan_dashboard.png)
+![Bank Loan Dashboard](screeshot/customer_bank_loan_analysis.png)

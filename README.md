@@ -9,6 +9,7 @@
 
 
 
+
 ## 📊 Project Overview
 This project visualizes and analyzes customer bank loan data using Power BI. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
 

@@ -5,7 +5,8 @@
 
 ## 🖼️ Dashboard Preview
 
-screenshot/customer_bank_loan_analysis.png
+![Customer Bank Loan Dashboard](customer_bank_loan_analysis.png)
+
 
 
 

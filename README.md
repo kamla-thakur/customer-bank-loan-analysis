@@ -1,57 +1,84 @@
-# customer-bank-loan-analysis
+# 💳 Customer Bank Loan Analysis – Power BI Dashboard
 
-### 📊 Power BI Dashboard Preview
+## 📁 Project Title
+**Customer Bank Loan Analysis**
 
-![Bank Loan Dashboard](screenshot/customer_bank_loan_analysis.png)   
-Key Insights from Bank Loan Analysis
-Loan Applications Volume
+## 🖼️ Dashboard Preview
 
-A total of 39.7K loan applications were processed.
+![Customer Bank Loan Dashboard](customer_bank_loan_analysis)
 
-The loan data spans several years, with 2010 and 2011 showing the highest loan amounts.
+> 📌 *This dashboard visualizes bank loan data to identify trends and borrower behavior using Power BI.*
 
-Total Funded Amount
+---
 
-Over $445.6 million in loans have been funded, showcasing significant financial activity.
+## 📊 Project Overview
+This project visualizes and analyzes customer bank loan data using Power BI. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
 
-The average interest rate across all loans is approximately 12%.
+---
 
-Grade and Sub-Grade Analysis
+## 🎯 Objective
+- Analyze total loan applications and funded amounts
+- Explore borrower credit grades and their revolving balances
+- Evaluate repayment trends based on customer verification status
+- Identify loan trends by geography, month, and home ownership
 
-Loans are categorized into grades A to G, with most loans falling under grades B and C.
+---
 
-Within each grade, the sub-grade breakdown shows higher revolving balances in better sub-grades like A1, B1, etc.
+## 🧰 Tools Used
 
-Verification Impact on Payment
+| Tool        | Purpose                      |
+|-------------|-------------------------------|
+| **Power BI**| Data visualization & dashboard |
+| Excel       | Initial data cleaning (if any) |
 
-Verified loans account for the largest total payment amount at $219.86M (45.57%).
+---
 
-Non-verified and source-verified loans make up the remaining 54.43%, suggesting that verification correlates with higher repayment volume.
+## 📈 Key Metrics
 
-State-wise Loan Distribution
+| Metric                        | Value     |
+|------------------------------|-----------|
+| Total Loan Applications       | 39.7K     |
+| Total Funded Amount           | $445.6M   |
+| Average Interest Rate         | 12.0%     |
+| Unique Customer Locations     | 39.7K     |
 
-California (CA) leads in the number of fully paid loans with 5,824, followed by New York, Texas, and Florida.
+---
 
-These top-performing states might represent areas with better credit behavior or economic conditions.
+## 🔍 Dashboard Insights
 
-Loan Status Trend Over Time
+### 📅 Loan Amount by Year
+- Highest disbursements in 2010–2011.
+- Year-on-year growth in loan activity observed.
 
-There is a steady monthly decline in the number of loans issued, with the peak around the year start and tapering off towards the year-end.
+### 🗺️ State-wise Loan Status
+- Top states with fully paid loans: **CA, NY, TX, FL**.
+- Indicates strong loan performance in these regions.
 
-Suggests possible seasonal borrowing behavior or stricter approval criteria.
+### 📊 Grade vs. Revolving Balance
+- Grade **B** and **C** customers have highest revolving balances.
+- Lower-grade borrowers have smaller loan exposures.
 
-Home Ownership and Last Payment Analysis
+### ✅ Repayment by Verification Status
+- Verified: $219.86M (45.57%)
+- Not Verified: $109.22M (22.64%)
+- Source Verified: $153.4M (31.79%)
+- Conclusion: **Verification improves repayment performance.**
 
-Borrowers who own homes or have mortgages contribute more significantly to the total repayment amount.
+### 📆 Monthly Loan Count
+- Peak in **December**, steady decline into **February**.
+- Seasonal patterns visible in loan applications.
 
-Indicates a possible positive relationship between home ownership and repayment capacity.
+### 🏠 Home Ownership vs Last Payment
+- Mortgage holders contribute more consistent, higher payments.
+- Indicates stable repayment trends among homeowners.
 
-📈 Dashboard Preview
-You can add this section above the insights in your README.md:
+---
 
-markdown
-Copy
-Edit
-### 📊 Power BI Dashboard Preview
 
-![Bank Loan Dashboard](screenshot/customer_bank_loan_analysis.png)
+
+
+
+
+
+
+

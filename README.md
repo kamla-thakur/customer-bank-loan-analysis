@@ -1,15 +1,18 @@
-# 💳 Customer Bank Loan Analysis – Power BI Dashboard
-
-## 📁 Project Title
-**Customer Bank Loan Analysis**
+# 💳 Customer Bank Loan Analysis
 
 ## 🖼️ Dashboard Preview
 
+### 🖼️ Power BI Dashboard
+
 ![Customer Bank Loan Dashboard](screenshot/customer_bank_loan_analysis.png)
+
+### 🖼️ Excel Dashboard
+
+![Customer Bank Loan Dashboard](screenshot/customer_bank_loan_excel.png)
 
 
 ## 📊 Project Overview
-This project visualizes and analyzes customer bank loan data using Power BI. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
+This project visualizes and analyzes customer bank loan data using Power BI, Excel and SQL. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
 
 ---
 
@@ -26,6 +29,8 @@ This project visualizes and analyzes customer bank loan data using Power BI. It 
 | Tool        | Purpose                      |
 |-------------|-------------------------------|
 | **Power BI**| Data visualization & dashboard |
+| **Excel**| Data visualization & dashboard |
+| **MYSQL**| Data Cleaning |
 ||
 
 ---
@@ -68,14 +73,3 @@ This project visualizes and analyzes customer bank loan data using Power BI. It 
 ### 🏠 Home Ownership vs Last Payment
 - Mortgage holders contribute more consistent, higher payments.
 - Indicates stable repayment trends among homeowners.
-
----
-
-
-
-
-
-
-
-
-

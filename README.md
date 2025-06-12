@@ -26,7 +26,7 @@ This project visualizes and analyzes customer bank loan data using Power BI. It 
 | Tool        | Purpose                      |
 |-------------|-------------------------------|
 | **Power BI**| Data visualization & dashboard |
-| Excel       | Initial data cleaning (if any) |
+||
 
 ---
 

@@ -79,7 +79,7 @@ This project visualizes and analyzes customer bank loan data using Power BI, Exc
 
 # 📊 Customer Bank Loan Analysis
 
-![Customer Bank Loan Dashboard](customer_bank_loan_analysis (2).png)
+![Customer Bank Loan Dashboard](customer_bank_loan_tableau.png)
 
 ## 🏦 Project Overview
 

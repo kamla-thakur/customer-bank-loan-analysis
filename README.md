@@ -4,6 +4,8 @@
 
 ### 🖼️ Power BI Dashboard
 
+
+
 ![Customer Bank Loan Dashboard](screenshot/customer_bank_loan_analysis.png)
 
 ### 🖼️ Excel Dashboard
@@ -73,3 +75,74 @@ This project visualizes and analyzes customer bank loan data using Power BI, Exc
 ### 🏠 Home Ownership vs Last Payment
 - Mortgage holders contribute more consistent, higher payments.
 - Indicates stable repayment trends among homeowners.
+
+
+# 📊 Customer Bank Loan Analysis
+
+![Customer Bank Loan Dashboard](customer_bank_loan_analysis (2).png)
+
+## 🏦 Project Overview
+
+This Tableau dashboard provides a detailed analysis of customer bank loan data to help stakeholders understand loan distribution, repayment status, funding performance, and risk exposure. The project aims to support better decision-making for future lending and investment strategies.
+
+---
+
+## 🔧 Tools Used
+
+- **Tableau**: For interactive dashboard creation and data visualization.
+- **Excel**: Used as the data source.
+- **KPIs**: Built using calculated fields and filters.
+
+
+---
+
+## 📌 Key Insights
+
+1. **Total Loan Amount**: $482.70M  
+2. **Total Funded Amount**: $434.81M  
+3. **Total Investment**: $459.41M
+
+---
+
+## 📊 Dashboard Features
+
+### ✅ Home Ownership vs Last Payment Status (Tree Map)
+- Shows the relationship between home ownership type and year of last payment.
+- Majority of loans are with **Mortgage** holders.
+
+### ✅ Revolving Balance by Grade & Sub-Grade
+- Grade B and C have the highest revol_bal.
+- Sub-grades like B4, C2, and C4 are higher risk due to large balances.
+
+### ✅ Verified vs Non-Verified Status
+- Total Payment = $373M
+  - Verified: $220M
+  - Not Verified: $154M
+- Verified loans make up the majority, which is favorable for risk assessment.
+
+### ✅ Month Wise Loan Issuance
+- Most fully paid loans were issued between **May–September**.
+- Charged off loans are highest in **June and December**.
+
+### ✅ Year Wise Loan Amount
+- Highest disbursement: **2011** with over **$180M** in fully paid loans.
+- Lower disbursements seen in 2007–2008.
+
+### ✅ State-wise Loan Performance
+- States like **CA, FL, NJ, NY, TX** show higher volume of loans.
+- Performance breakdown by loan status across years is included.
+
+## 🧭 Navigation Buttons for KPI Details
+
+To improve usability, **navigation buttons** are included in the dashboard for seamless transitions between the main dashboard and individual KPI sheets.  
+Users can explore:
+- KPI 1: Year-wise Home Ownership  
+- KPI 2: Revolving Balance Analysis  
+- KPI 3: Verified vs Non-Verified Status  
+- KPI 4-6: Month-wise, Quarter-wise, and Grade-wise insights  
+
+These buttons allow interactive exploration of the data without cluttering the main dashboard.
+
+---
+
+

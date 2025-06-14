@@ -14,7 +14,7 @@
 
 
 ## 📊 Project Overview
-This project visualizes and analyzes customer bank loan data using Power BI, Excel and SQL. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
+This project visualizes and analyzes customer bank loan data using Power BI, Excel and SQL,Tableau. It provides meaningful insights into loan application volumes, repayment behavior, borrower credit grades, and geographic distribution. The report is aimed at helping financial institutions understand customer profiles, identify risk zones, and enhance lending strategies.
 
 ---
 
@@ -33,7 +33,7 @@ This project visualizes and analyzes customer bank loan data using Power BI, Exc
 | **Power BI**| Data visualization & dashboard |
 | **Excel**| Data visualization & dashboard |
 | **MYSQL**| Data Cleaning |
-||
+||**Tableau**| Data visualization & dashboard |
 
 ---
 
@@ -79,7 +79,10 @@ This project visualizes and analyzes customer bank loan data using Power BI, Exc
 
 # 📊 Customer Bank Loan Analysis
 
-![Customer Bank Loan Dashboard](customer_bank_loan_tableau.png)
+### 🖼️ Tableau Dashboard
+
+![Customer Bank Loan Dashboard](screenshot/customer_bank_loan_tableau.png)
+
 
 ## 🏦 Project Overview
 
